@@ -64,6 +64,5 @@ By leveraging the concepts of data mining, web scraping, database management, da
 For any inquiries or suggestions, feel free to contact:
 
 - Name: Jacktone Etemesi
-- Phone: +25408578181
 - Email: jacktoneetemesi1@gmail.com
 
